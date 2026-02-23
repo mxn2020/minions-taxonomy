@@ -1,6 +1,12 @@
 ---
 name: minions-taxonomy
-description: Organizational metadata — groups, categories, tags, namespaces, statuses, and priorities
+id: OC-0164
+version: 1.0.0
+description: "Organizational metadata — groups, categories, tags, namespaces, statuses, and priorities"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-taxonomy — Agent Skills
