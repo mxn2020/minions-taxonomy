@@ -1,0 +1,15 @@
+name: minions-taxonomy-workspace
+project_scope: main
+project_type: monorepo
+description: "Organizational metadata — groups, categories, tags, namespaces, statuses, and priorities"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-taxonomy"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, taxonomy]
+notes: null
+id: eb0bc40c-85e2-4f82-aea7-da09ac7f2015

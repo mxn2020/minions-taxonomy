@@ -1,0 +1,8 @@
+name: "@minions-taxonomy/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-taxonomy-workspace
+description: "CLI for minions-taxonomy — Organizational metadata — groups, categories, tags, namespaces, statuses, and priorities"
+priority: high
+deploy_url: null
+tags: null
