@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "minions-taxonomy"
-version = "0.1.0"
+version = "0.2.0"
 description = "Organizational metadata — groups, categories, tags, namespaces, statuses, and priorities"
 readme = "README.md"
 license = { text = "MIT" }

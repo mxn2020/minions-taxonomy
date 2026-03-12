@@ -1,8 +1,8 @@
 {
   "name": "minions-taxonomy-workspace",
   "private": true,
-  "version": "0.1.0",
-  "description": "Organizational metadata \u2014 groups, categories, tags, namespaces, statuses, and priorities",
+  "version": "0.2.0",
+  "description": "Organizational metadata — groups, categories, tags, namespaces, statuses, and priorities",
   "type": "module",
   "license": "MIT",
   "author": "Mehdi Nabhani <mehdi@the-mehdi.com> (https://the-mehdi.com)",
